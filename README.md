@@ -12,15 +12,8 @@
 - [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [Learning Outcomes](#learning-outcomes)
-- [Future Enhancements](#future-enhancements)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## 🎯 Overview
 
@@ -114,7 +107,7 @@ Organizations struggle with:
 └───────────────┴─────────────────┴──────────────────────────┘
 
 📁 Project Structure
-text
+```
 Email-Automation-Reminder-System/
 │
 ├── data/                          # Input data files
@@ -140,40 +133,28 @@ Email-Automation-Reminder-System/
 ├── main.py                       # Main entry point
 ├── run_dry_run.py               # Dry run script
 └── README.md                    # Documentation
-📚 Learning Outcomes
-After building this project, you'll understand:
+```
 
+## 📚 Learning Outcomes
+After building this project, you'll understand:
 Python Concepts
 ✅ File I/O operations (CSV, text files)
-
 ✅ SMTP protocol and email handling
-
 ✅ Environment variables management
-
 ✅ Logging system implementation
-
 ✅ Modular code organization
-
 ✅ Error handling and exceptions
 
 Software Engineering
 ✅ Project structure best practices
-
 ✅ Configuration management
-
 ✅ Separation of concerns
-
 ✅ Code documentation
-
 ✅ Testing strategies (dry-run mode)
 
 Automation Concepts
 ✅ Scheduled task execution
-
 ✅ Template personalization
-
 ✅ Data pipeline creation
-
 ✅ Report generation
-
 ✅ System monitoring
