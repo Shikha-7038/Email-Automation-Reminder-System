@@ -1,0 +1,4 @@
+title,subject,send_datetime,recurring
+Team Meeting,Weekly Team Sync: {{name}},2026-05-08 10:00,No
+Project Deadline,Project Update Required - {{name}},2026-05-09 14:30,No
+Training Session,Python Training Reminder,2026-05-07 19:08,No

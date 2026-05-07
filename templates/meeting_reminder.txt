@@ -1,0 +1,16 @@
+Dear {{name}},
+
+REMINDER: {{subject}}
+
+Your Details:
+-------------
+- Role: {{role}}
+- Company: {{company}}
+-------------
+
+This is an automated reminder. Please take necessary action.
+
+Best regards,
+Email Automation System
+---
+Sent at: 2026-05-07 19:41:16
