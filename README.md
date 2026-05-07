@@ -75,6 +75,7 @@ Organizations struggle with:
 | Logging | logging module | Built-in |
 
 ## 🏗️ Architecture
+```
 ┌─────────────────────────────────────────────────────────────┐
 │ INPUT DATA │
 ├───────────────┬─────────────────┬──────────────────────────┤
@@ -105,6 +106,7 @@ Organizations struggle with:
 │ (successful │ (failed │ (summary with │
 │ deliveries) │ deliveries) │ statistics) │
 └───────────────┴─────────────────┴──────────────────────────┘
+```
 
 📁 Project Structure
 ```
@@ -138,23 +140,23 @@ Email-Automation-Reminder-System/
 ## 📚 Learning Outcomes
 After building this project, you'll understand:
 Python Concepts
-✅ File I/O operations (CSV, text files)
-✅ SMTP protocol and email handling
-✅ Environment variables management
-✅ Logging system implementation
-✅ Modular code organization
-✅ Error handling and exceptions
+- ✅ File I/O operations (CSV, text files)
+- ✅ SMTP protocol and email handling
+- ✅ Environment variables management
+- ✅ Logging system implementation
+- ✅ Modular code organization
+- ✅ Error handling and exceptions
 
 Software Engineering
-✅ Project structure best practices
-✅ Configuration management
-✅ Separation of concerns
-✅ Code documentation
-✅ Testing strategies (dry-run mode)
+- ✅ Project structure best practices
+- ✅ Configuration management
+- ✅ Separation of concerns
+- ✅ Code documentation
+- ✅ Testing strategies (dry-run mode)
 
 Automation Concepts
-✅ Scheduled task execution
-✅ Template personalization
-✅ Data pipeline creation
-✅ Report generation
-✅ System monitoring
+- ✅ Scheduled task execution
+- ✅ Template personalization
+- ✅ Data pipeline creation
+- ✅ Report generation
+- ✅ System monitoring
